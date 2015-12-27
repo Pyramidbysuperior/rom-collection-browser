@@ -987,46 +987,7 @@
 					<selectedcolor>FFe2ff43</selectedcolor>						
 					<label>$INFO[ListItem.Label]</label>					
 				</control>
-				<!-- Console -->
-				<control type="label">
-					<posx>0</posx>
-					<posy>150r</posy>
-					<width>1280</width>
-					<height>20</height>
-					<font>font16caps</font>
-					<aligny>center</aligny>
-					<textcolor>DDFFFFFF</textcolor>
-					<selectedcolor>FFe2ff43</selectedcolor>
-					<align>center</align>
-					<label>$INFO[ListItem.Property(console)]</label>
-					<visible>Control.IsVisible(58)</visible>
-				</control>
-				<!-- Year -->
-				<control type="label">
-					<description>Year Value</description>
-					<posx>0</posx>
-					<posy>120r</posy>
-					<width>1280</width>
-					<height>20</height>
-					<label fallback="416">$INFO[ListItem.Property(year)]</label>
-					<align>center</align>
-					<aligny>center</aligny>
-					<font>font13</font>
-					<scroll>true</scroll>
-				</control>				
-				<!-- Genre -->
-				<control type="label">
-					<description>Genre Value</description>
-					<posx>0</posx>
-					<posy>90r</posy>
-					<width>1280</width>
-					<height>20</height>
-					<label fallback="416">$INFO[ListItem.Property(genre)]</label>
-					<align>center</align>
-					<aligny>center</aligny>
-					<font>font13</font>
-					<scroll>true</scroll>
-				</control>
+			
 				
 				<!-- extraImage1 -->
 				<control type="image">
