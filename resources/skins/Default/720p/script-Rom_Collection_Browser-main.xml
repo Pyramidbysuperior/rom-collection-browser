@@ -1153,7 +1153,7 @@
 					<onright>600</onright>
 					<onup>500</onup>
 					<ondown>500</ondown>
-					<viewtype label="Console">wrap</viewtype>
+					<viewtype label="">wrap</viewtype>
 					<focusposition>1</focusposition>
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1227,7 +1227,7 @@
 					<onright>700</onright>
 					<onup>600</onup>
 					<ondown>600</ondown>
-					<viewtype label="Genre">wrap</viewtype>
+					<viewtype label="">wrap</viewtype>
 					<focusposition>1</focusposition>			
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1301,7 +1301,7 @@
 					<onright>800</onright>
 					<onup>700</onup>
 					<ondown>700</ondown>
-					<viewtype label="Year">wrap</viewtype>
+					<viewtype label="">wrap</viewtype>
 					<focusposition>1</focusposition>			
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1375,7 +1375,7 @@
 					<onright>900</onright>
 					<onup>800</onup>
 					<ondown>800</ondown>
-					<viewtype label="Year">wrap</viewtype>
+					<viewtype label="">wrap</viewtype>
 					<focusposition>1</focusposition>			
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
