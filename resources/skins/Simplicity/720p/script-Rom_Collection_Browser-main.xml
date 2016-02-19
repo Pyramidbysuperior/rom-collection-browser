@@ -1257,7 +1257,7 @@
 					<posx>210</posx>
 					<posy>20</posy>
 					<textcolor>DDFFFFFF</textcolor>
-					<label>$ADDON[script.games.rom.collection.browser 32401]</label>
+					
 				</control>
 				<control type="wraplist" id="600">
 					<posx>210</posx>
@@ -1350,19 +1350,7 @@
 							<posx>0</posx>
 							<posy>0</posy>
 							<texture border="5">rcb-button-nofocus.png</texture>
-						</control>
-						<control type="label">
-							<posx>5</posx>
-							<posy>0</posy>
-							<width>190</width>
-							<height>30</height>
-							<font>Simplicity_font13</font>
-							<aligny>center</aligny>
-							<textcolor>DDFFFFFF</textcolor>
-							<selectedcolor>FFe2ff43</selectedcolor>
-							<align>left</align>
-							<info>ListItem.Label</info>
-						</control>
+					
 					</itemlayout>
 					<focusedlayout height="32">
 						<control type="image">
