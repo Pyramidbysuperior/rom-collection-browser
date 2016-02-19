@@ -1218,7 +1218,8 @@
 					<width>200</width>
 					<align>center</align>
 					<textcolor>DDFFFFFF</textcolor>
-					<label>$ADDON[script.games.rom.collection.browser 32406]</label>
+				
+				
 				</control>		
 				<control type="wraplist" id="500">
 					<posx>0</posx>
@@ -1229,7 +1230,7 @@
 					<onright>600</onright>
 					<onup>500</onup>
 					<ondown>500</ondown>
-					<viewtype label="Console">wrap</viewtype>
+				
 					<focusposition>1</focusposition>
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1292,7 +1293,7 @@
 					<width>200</width>
 					<align>center</align>
 					<textcolor>DDFFFFFF</textcolor>
-					<label>$ADDON[script.games.rom.collection.browser 32401]</label>
+				
 				</control>
 				<control type="wraplist" id="600">
 					<posx>210</posx>
@@ -1303,7 +1304,7 @@
 					<onright>700</onright>
 					<onup>600</onup>
 					<ondown>600</ondown>
-					<viewtype label="Genre">wrap</viewtype>
+				
 					<focusposition>1</focusposition>			
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1366,7 +1367,6 @@
 					<width>200</width>
 					<align>center</align>
 					<textcolor>DDFFFFFF</textcolor>
-					<label>$ADDON[script.games.rom.collection.browser 32400]</label>
 				</control>		
 				<control type="wraplist" id="700">
 					<posx>420</posx>
@@ -1377,7 +1377,6 @@
 					<onright>800</onright>
 					<onup>700</onup>
 					<ondown>700</ondown>
-					<viewtype label="Year">wrap</viewtype>
 					<focusposition>1</focusposition>			
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1440,7 +1439,6 @@
 					<width>200</width>
 					<align>center</align>
 					<textcolor>DDFFFFFF</textcolor>
-					<label>$ADDON[script.games.rom.collection.browser 32402]</label>
 				</control>		
 				<control type="wraplist" id="800">
 					<posx>630</posx>
@@ -1451,7 +1449,6 @@
 					<onright>900</onright>
 					<onup>800</onup>
 					<ondown>800</ondown>
-					<viewtype label="Year">wrap</viewtype>
 					<focusposition>1</focusposition>			
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
@@ -1514,7 +1511,6 @@
 					<width>60</width>
 					<align>center</align>
 					<textcolor>DDFFFFFF</textcolor>
-					<label>$ADDON[script.games.rom.collection.browser 32407]</label>
 				</control>		
 				<control type="wraplist" id="900">
 					<posx>840</posx>
@@ -1525,7 +1521,6 @@
 					<onright>1000</onright>
 					<onup>900</onup>
 					<ondown>900</ondown>
-					<viewtype label="Character">wrap</viewtype>
 					<focusposition>1</focusposition>
 					<scrolltime>200</scrolltime>
 					<itemlayout height="32">
